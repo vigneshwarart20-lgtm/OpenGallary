@@ -1,0 +1,6 @@
+{
+  "name": "Gallery",
+  "description": "Apple Photos style offline photo and video gallery with pro photo editor, albums, and date-based fast scroll.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
